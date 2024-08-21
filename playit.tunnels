@@ -9,28 +9,28 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "technical-reload.gl.joinmc.link",
-          "assigned_srv": "technical-reload.gl.joinmc.link",
+          "assigned_domain": "step-humidity.gl.joinmc.link",
+          "assigned_srv": "step-humidity.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "6fdacbcb-3f82-4f2c-884a-b88728cb7277",
-          "ip_hostname": "22.ip.gl.ply.gg",
+          "id": "42056cb9-f357-4a71-83e0-fd7b86ac3381",
+          "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 13874,
-          "port_start": 13873,
+          "port_end": 51289,
+          "port_start": 51288,
           "region": "global",
-          "static_ip4": "147.185.221.22",
-          "tunnel_ip": "2602:fbaf:0:1::16"
+          "static_ip4": "147.185.221.20",
+          "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-08-21T03:04:52.886701Z",
+      "created_at": "2024-08-21T03:47:38.000775Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "cc8b2df8-b709-4704-907d-b8375e451ab5",
+      "id": "6272a345-8128-4076-9fc7-e613bff5c231",
       "name": "Minecraft Java",
       "origin": {
         "data": {
