@@ -1,316 +1,418 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.19): 1724264941010 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.19): 1724525397314 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264944129 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525400398 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264947221 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525403494 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264950314 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525406586 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264953407 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525409714 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264956496 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525412807 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264959611 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525415892 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264962701 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525418978 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264965793 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525422097 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264968894 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525425207 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264972003 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525428309 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264975115 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525431421 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264978207 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525434503 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264981302 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525437623 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264984417 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525440720 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264987526 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525443823 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264990641 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525446927 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264993737 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525450018 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264996832 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525453105 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724264999958 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525456192 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265003061 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525459313 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265006153 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525462413 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265009244 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525465513 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265012360 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525468612 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265015457 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525471703 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265018575 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525474794 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265021666 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525477880 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265024799 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525480967 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265027892 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525484087 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265030986 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525487172 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265034079 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525490277 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265037191 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525493393 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265040309 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525496486 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265043424 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525499602 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265046517 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525502687 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265049628 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525505772 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265052763 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525508855 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265055866 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525511955 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265058979 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525515049 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265062095 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525518133 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265065195 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525521257 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265068285 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525524366 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265071372 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525527470 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265074464 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525530557 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265077927 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525533738 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265081144 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525536858 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265084239 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525539963 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265087328 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525543065 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265090411 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525546158 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265093496 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525549273 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265096619 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525552364 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265099739 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525555453 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
 b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1724265102856 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724525558558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
+b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724525561646 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
+b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724525564737 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
+b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724525567827 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
+b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724525570912 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
+b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724525574001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
+b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724525577110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
+b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724525580203 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
+b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724525583290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
+b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724525586385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
+b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724525589474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
+b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724525592560 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
+b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724525595645 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
+b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724525598733 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
+b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724525601824 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
+b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724525604909 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
+b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724525608006 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+want-uni.gl.at.ply.gg:45552 => 127.0.0.1:45552 (proto: Both, port count: 1)
+b-preparation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724525611098 tunnel running, 2 tunnels registered
 
 
 TUNNELS
